@@ -20,5 +20,5 @@ Follow these steps to get the Pydew-Valley up and running:
 3. Run the simulator:
 
     ```bash
-    python main.py
+    python code/main.py
     ```
