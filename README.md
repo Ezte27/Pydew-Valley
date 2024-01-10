@@ -22,3 +22,28 @@ Follow these steps to get the Pydew-Valley up and running:
     ```bash
     python code/main.py
     ```
+## Controls
+
+Exit game: ctrl+c  
+Interact: Enter  
+  
+**Player movement:**  
+&emsp;Forward: w or up key  
+&emsp;Back: s or down key  
+&emsp;Right: d or right key  
+&emsp;Left: a or left key 
+  
+**Tools:**  
+&emsp;Use tool: space bar  
+&emsp;Change tool: q  
+  
+**Seeds:**  
+&emsp;Plant seed: 1  
+&emsp;Change seed: e  
+  
+**Menu:**  
+&emsp;Open menu: Esc  
+&emsp;Movement: up and down keys  
+&emsp;Toggle trade option: space bar  
+&emsp;Buy or sell: Enter  
+
